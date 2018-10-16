@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Localization</string>
+    <string name="app_tittle">Registration</string>
+    <string name="app_banner">Isi form dibawah untuk masuk sebagai user</string>
+
+    <string name="form_nama">Nama lengkap</string>
+    <string name="form_email">Alamat e-mail</string>
+    <string name="form_phone">Nomor telepon</string>
+    <string name="form_pwd">Kata sandi</string>
+    <string name="form_check">Saya belum baca</string>
+
+
+    <string name="btn_go">Masuk pak eko</string>
+    <string name="button_lang">Ganti bahasa</string>
+
+
+</resources>

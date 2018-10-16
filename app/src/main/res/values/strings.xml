@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Localization</string>
+    <string name="app_tittle">Registration</string>
+    <string name="app_banner">Fill in this form to register as user</string>
+
+    <string name="form_nama">Full name</string>
+    <string name="form_email">E-mail address</string>
+    <string name="form_phone">Phone number</string>
+    <string name="form_pwd">Password</string>
+    <string name="form_check">I have read and agree the terms</string>
+
+    <string name="btn_go">Submit</string>
+    <string name="button_lang">Change language</string>
+</resources>
